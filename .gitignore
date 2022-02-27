@@ -1,0 +1,10 @@
+## User settiings
+cf/
+
+## Xcode
+# User settings
+xcuserdata/
+
+# Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
